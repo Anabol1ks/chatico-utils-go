@@ -1,4 +1,4 @@
-module github.com/Anabol1ks/chatico-utils-go
+module github.com/Anabol1ks/rentAdvisor-utils-go
 
 go 1.24.0
 
