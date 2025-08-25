@@ -1,6 +1,6 @@
 module github.com/Anabol1ks/chatico-utils-go
 
-go 1.24.5
+go 1.24.0
 
 require (
 	dario.cat/mergo v1.0.1 // indirect
